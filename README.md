@@ -36,8 +36,7 @@ pip install -r requirements.txt
 ## Настройка
 1. Скопируй `.env.example` в `.env`
 2. Заполни токен бота и `chat_id`
-3. Скопируй `hardware_setup.example.py` в `hardware_setup.py`
-4. Для HX711 через `JoyIT_hx711py` заполни в `.env`:
+3. Для HX711 через `JoyIT_hx711py` заполни в `.env`:
    - `FEEDER_HX711_DOUT`
    - `FEEDER_HX711_SCK`
    - `FEEDER_HX711_GAIN`
