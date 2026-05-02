@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+hardware_setup.py
+feeder.log
+.pytest_cache/

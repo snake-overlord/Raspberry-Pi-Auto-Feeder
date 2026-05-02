@@ -1,0 +1,5 @@
+requests
+transitions
+gpiozero
+adafruit-circuitpython-vl53l0x
+JoyIT-hx711py
