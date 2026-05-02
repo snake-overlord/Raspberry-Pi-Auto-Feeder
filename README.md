@@ -1,4 +1,5 @@
 # Raspberry Pi Pet Feeder
+<img width="960" height="1280" alt="photo_2026-05-02_17-34-05" src="https://github.com/user-attachments/assets/f6e44070-118c-4c10-ade9-754e7d95dd9e" />
 
 Автокормушка на Raspberry Pi с:
 - FSM на `transitions`
@@ -60,3 +61,7 @@ python3 main.py
 ```bash
 python3 -m pytest -q tests
 ```
+
+
+<img width="1280" height="960" alt="photo_2026-05-02_17-33-56" src="https://github.com/user-attachments/assets/05b4a6a6-c81d-4908-8057-9df6eeb2d6e1" />
+
